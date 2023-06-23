@@ -7,10 +7,10 @@ Make sure you have Python installed on your system.
 Clone or download the repository to your local machine.  
 Open a terminal or command prompt and navigate to the project directory.  
   
-cd path/to/password-generator  
+<pre><code>cd path/to/password-generator</pre></code>
   
 Run the script by executing the following command:  
-python Main.py  
+<pre><code>python3 Main.py</code></pre>  
   
 Enter the desired length of the password when prompted.  
 The script will generate a random password using the specified length and display it on the screen.  
